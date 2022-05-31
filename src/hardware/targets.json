@@ -1,4 +1,15 @@
 {
+    "yarr": {
+        "tx_2400": {
+            "yarrtx": {
+                "product_name": "yarrtx",
+                "lua_name": "YarrTX",
+                "layout_file": "YarrTX 2400.json",
+                "upload_methods": ["uart", "wifi", "etx"]
+
+            }
+        }
+    },
     "axis": {
         "tx_2400": {
             "thor": {
